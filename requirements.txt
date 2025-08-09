@@ -1,0 +1,6 @@
+streamlit==1.37.1
+openai>=1.40.0
+yfinance==0.2.40
+pandas>=2.2.2
+numpy>=1.26.4
+pandas-datareader>=0.10.0
